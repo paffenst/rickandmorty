@@ -1,13 +1,14 @@
 .character-card{
-    width: 10px;
-    height: 50%;
+    width: 200px;
+    height: 100%;
     margin: 1%;
-    border: 1px solid #d22e2e;
-    border-radius: 50px;
-    box-shadow: 10px 10px 5px 0 rgba(70, 7, 7, 0.75);
+    border: 1px solid #bb1010;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px 0 rgb(122, 190, 54);
 }
 
 .character-card-image{
-    width: 50%;
+    width: 90%;
     height: auto;
+    border-radius: 50%;
 }
