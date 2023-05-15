@@ -1,9 +1,10 @@
-import React from 'react';
+import React, {useState} from 'react';
 import './App.css';
 import CharacterGallery from "./CharacterGallery";
 import {Character} from "./Character";
 
 function App() {
+
 
     const characters: Character[] = [
         {
